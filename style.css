@@ -1,0 +1,51 @@
+/*Q1*/
+header{
+    background-color: blue;
+    color: white;
+}
+/*Q2*/
+.container{
+    background-color: lightgray;
+    color: black;
+}
+/*Q3*/
+.highlight{
+    color: green;
+}
+/*Q4*/
+.main-content{
+    background-color: yellow;
+}
+/*Q6*/
+a{
+    text-decoration: none;
+}
+/*Q7*/
+h1, h2, h3, h4, h5, h6{
+    text-decoration:underline;
+    text-decoration-style: dashed;
+}
+/*Q8*/
+.bold-text{
+    font-weight: bold;
+}
+/*Q9*/
+#intro{
+    font: weight 300;
+}
+/*Q10*/
+body{
+    font-family: Arial, sans-serif;
+}
+/*Q11*/
+.custom-font{
+    font-family: 'Times New Roman', serif;
+}
+/*Q12*/
+#heading{
+    text-transform: uppercase;
+}
+/*Q13*/
+.capitalize-text{
+    text-transform: capitalize;
+}
